@@ -1,0 +1,6 @@
+Flask
+matplotlib
+pandas
+pandasai
+python-dotenv
+werkzeug
